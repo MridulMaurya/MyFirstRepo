@@ -1,0 +1,19 @@
+{
+  "name": "mridul",
+  "version": "1.0.0",
+  "description": "Its an amazing project.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MridulMaurya/Node.git"
+  },
+  "author": "Mridul Maurya",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MridulMaurya/Node/issues"
+  },
+  "homepage": "https://github.com/MridulMaurya/Node#readme"
+}
